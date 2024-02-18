@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey! I'm Ethan
 🔭 I’m currently working on my [family restaurant's website](thaielephant2.com).<br>🌱 I’m currently learning AI Principles (CS221).<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: I'm a New York Giants, Dallas Mavericks, and Real Madrid fan.
 
 
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ethanharianto&icon=5&color=6)](https://visitcount.itsvg.in)
