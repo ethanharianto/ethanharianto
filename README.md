@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my family restaurant's website.<br>🌱 I’m currently learning AI Principles (CS221).<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: I'm a New York Giants, Dallas Mavericks, and Real Madrid fan.
+🔭 I’m currently working on my [family restaurant's website](thaielephant2.com).<br>🌱 I’m currently learning AI Principles (CS221).<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: I'm a New York Giants, Dallas Mavericks, and Real Madrid fan.
 
 
 ## 🌐 Socials:
