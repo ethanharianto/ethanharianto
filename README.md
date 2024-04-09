@@ -1,5 +1,5 @@
 # 💫 Hey! I'm Ethan
-🔭 I’m currently working on my classwork at Stanford.<br>🌱 I’m currently learning AI Principles (CS221) and Deep Learning through Computer Vision (CS231N).<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: I'm a New York Giants, Dallas Mavericks, and Real Madrid fan.
+🔭 I’m currently working on my classwork at Stanford and making readmes for my projects.😅<br>🌱 I’m currently learning AI Principles (CS221) and Deep Learning through Computer Vision (CS231N).<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: I'm a New York Giants, Dallas Mavericks, and Real Madrid fan.
 
 
 ## 🌐 Socials:
