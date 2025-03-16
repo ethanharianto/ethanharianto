@@ -1,5 +1,5 @@
 # 💫 Hey! I'm Ethan
-🔭 I’m working on my classwork at Stanford and project ideation.😅<br>🌱 I’m currently learning Digital System Design (EE108) and Operating Systems (CS111).<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: I'm a New York Giants, Dallas Mavericks, and Real Madrid fan.
+🔭 I’m working on my classwork at Stanford.😅<br>🌱 I’m currently learning spoken language processing and deep reinforcement learning.<br>💬 Ask me about any of my projects.<br>⚡ Fun fact: I'm a New York Giants, Dallas Mavericks, and Real Madrid fan.
 
 
 ## 🌐 Socials:
