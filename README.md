@@ -1,5 +1,5 @@
 # 💫 Hey! I'm Ethan
-🔭 I’m working on full-stack development at Pantheon Lab. <br>🌱 I’m currently learning Go.<br>💬
+🔭 I’m working on full-stack development. <br>🌱 I’m currently learning Go.
 
 
 ## 🌐 Socials:
