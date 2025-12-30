@@ -1,5 +1,5 @@
 # 💫 Hey! I'm Ethan
-🔭 I’m working on ML infrastructure. <br>🌱 I’m currently learning CUDA.
+🔭 I’m working on a few projects 🤫. <br>🌱 I’m currently learning full-stack development.
 
 
 ## 🌐 Socials:
